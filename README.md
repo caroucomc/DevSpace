@@ -1,7 +1,4 @@
 # DevSpace
-Landing page pessoal desenvolvida com HTML, CSS e JavaScript.
-
-# DevSpace
 
 Landing page pessoal desenvolvida como projeto prático
 utilizando HTML, CSS e JavaScript.
